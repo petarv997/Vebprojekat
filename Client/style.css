@@ -1,0 +1,82 @@
+.naslov
+{
+    text-align:center;
+    font-size:x-large;
+}
+.MainKontejner{
+    display: flex;
+    flex-direction: row;
+}
+table,tr,th,td{
+    border: 1px solid black;
+}
+table
+{
+    border-collapse:collapse;
+}
+.zaTabele
+{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.KTForma
+{
+    display: flex;
+}
+.KRForma
+{
+    display: flex;
+}
+.RForma,.TForma,.PForma
+{
+    margin-bottom:75px;
+    background-color: lightcyan;
+    display: flex;
+}
+
+.marketi, .reds, .kol
+{
+    margin-right:20px;
+}
+.red
+{
+    margin-bottom:10px;
+}
+.sE
+{
+    margin-right:10px;
+}
+.BrojKol
+{
+    margin-right:20px;
+}
+.Izlistaj
+{
+    margin-bottom: 10px;
+}
+.Skladista
+{
+    margin-right: 20px;
+}
+.rsE
+{
+    margin-right: 20px;
+}
+.ovajred
+{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.onajred
+{
+    margin-bottom: 30px;
+}
+.kupi
+{
+    margin-right: 10px;
+}
+.find
+{
+    margin-right: 10px;
+}
